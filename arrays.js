@@ -19,7 +19,7 @@ function destructivelyAddElementToEndOfArray(array, element){
 }
 
 function accessElementInArray(array, index){
-  
+  document.array([index])
 }
 
 function destructiveRemoveElementFromBeginnningOfArray(array, element){
